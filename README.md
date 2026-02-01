@@ -1,5 +1,5 @@
 Hospital Management System
-
-This is a Mini_Java Project which help you in understanding the File handling,Exceptional handling and proper use of Methods.
+It is am Mini_Java Project.
+It is super helful for understanding the basics about Java
 
 
